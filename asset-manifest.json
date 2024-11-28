@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Star-wars/static/css/main.98cb78b1.css",
+    "main.js": "/Star-wars/static/js/main.30cbc156.js",
+    "static/js/453.880f5188.chunk.js": "/Star-wars/static/js/453.880f5188.chunk.js",
+    "static/media/stars.jpg": "/Star-wars/static/media/stars.a774d3515d0d18716a03.jpg",
+    "static/media/hero.jpg": "/Star-wars/static/media/hero.10c5225e9ad10236e6d6.jpg",
+    "static/media/Starjout.ttf": "/Star-wars/static/media/Starjout.f7accd2946bcbf115782.ttf",
+    "static/media/Conthrax-SemiBold.otf": "/Star-wars/static/media/Conthrax-SemiBold.447d5cfb48c52602f25b.otf",
+    "static/media/Starjhol.ttf": "/Star-wars/static/media/Starjhol.c247ee6825d52f9d0862.ttf",
+    "static/media/Starjedi.ttf": "/Star-wars/static/media/Starjedi.8d577dc1e1755c4860f3.ttf",
+    "static/media/logo.png": "/Star-wars/static/media/logo.1d2378db722ce446738f.png",
+    "static/media/Death Star.otf": "/Star-wars/static/media/Death Star.703947d0da197aa7d2c6.otf",
+    "index.html": "/Star-wars/index.html",
+    "main.98cb78b1.css.map": "/Star-wars/static/css/main.98cb78b1.css.map",
+    "main.30cbc156.js.map": "/Star-wars/static/js/main.30cbc156.js.map",
+    "453.880f5188.chunk.js.map": "/Star-wars/static/js/453.880f5188.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98cb78b1.css",
+    "static/js/main.30cbc156.js"
+  ]
+}
