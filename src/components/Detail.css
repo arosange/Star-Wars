@@ -1,0 +1,110 @@
+
+
+.item-detail h2 {
+    text-align: center;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.607);
+    border-top: 1px solid rgba(255, 255, 255, 0.607) ;
+    padding: 20px 0;
+    font-family: "Starjout";
+    font-size: 40px;
+    letter-spacing: 4px;
+    color: #ffd900d8;
+}
+
+.item-detail p{
+    font-family: "Conthrax";
+    line-height: 2;
+    letter-spacing: 1px;
+    font-size: 16px;
+
+}
+
+.item-detail img {
+    height: 600px;
+
+}
+
+
+.item-info {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+    line-height: 1.5;
+    font-size: 20px;
+    padding: 30px 80px 50px 80px;
+
+}
+
+.related{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 80px;
+    text-align: center;
+    padding: 0 40px;
+    margin-bottom: 80px;
+}
+
+
+
+.related-card {
+    max-width : 250px;
+    min-width: 250px;
+    margin-top: 30px;
+    border: 1px solid black;
+    background-color: rgba(255, 255, 255, 0.076);
+    padding-top: 20px;
+    border-radius: 10px 10px 0;
+    margin-top: 50px;
+    transition: transform 0.3s;
+
+}
+
+.related-card:hover{
+    transform: translate(5px,-10px);
+}
+
+.related-card h3{
+    font-family: "Conthrax";
+    letter-spacing: 1px;
+   
+
+}
+
+.related-card img {
+    max-width: 100%;
+    height: 300px;
+    border-radius: 8px;
+    object-fit: contain;
+    transition: transform 0.3s ease;
+}
+
+.related-card img:hover{
+    transform: scale(1.05) translate(5px, -5px);
+}
+
+.related-card-name {
+    background-color: rgba(0, 0, 0, 0.52);
+    padding: 15px;
+    height: 60px;
+   
+    
+}
+
+.related-card a{
+    color: white;
+    text-decoration: none;
+}
+
+
+.loadingGif{
+    margin: 0 auto;
+display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 40%;
+
+}

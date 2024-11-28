@@ -1,0 +1,32 @@
+.hero-banner{
+    background: url("../assets/images/homeBanner/hero.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 600px;
+}
+
+.hero-text h1{
+    padding-top: 80px;
+    
+    font-family: "Starjout";
+    font-size: 60px;
+    letter-spacing: 2px;
+    color: #ffd900d8;
+
+  
+}
+
+.hero-text{
+    margin-left: 60px;
+    max-width: 550px;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.hero-text p{
+    font-family: "Conthrax";
+    line-height: 2;
+    letter-spacing: 1px;
+
+}

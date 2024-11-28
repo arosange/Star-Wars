@@ -1,0 +1,35 @@
+.navbar{
+    background-color: transparent;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 40px 60px;
+    gap: 60px;
+    
+}
+
+
+.search-bar{
+    min-width: 500px;
+    padding: 15px;
+    background-color: black;
+    border: 1px solid rgb(117, 117, 37);
+    color: white;
+    font-family: "Conthrax";
+   
+    
+}
+
+.search-bar::placeholder{
+    font-family: "Conthrax";
+    font-size: 16px;
+}
+
+.navbar img{
+    height: 90px;
+
+}
+
+
+  

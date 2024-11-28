@@ -1,0 +1,72 @@
+body{
+    background: url("assets/images/stars.jpg");
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    color: white;
+    margin: 0;
+}
+@font-face {
+    font-family: 'Starjedi'; /* Nombre para llamar la fuente en el css se pone como quiera */
+    src: url('./assets/fonts/star_jedi/starjedi/Starjedi.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Starjhol'; 
+    src: url('./assets/fonts/star_jedi/starjedi/Starjhol.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Starjout';
+    src: url('./assets/fonts/star_jedi/starjout/Starjout.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  
+  @font-face {
+    font-family: 'Deathstar'; /* Nombre personalizado */
+    src: url('./assets/fonts/death_star/Death\ Star.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Conthrax'; /* Nombre personalizado */
+    src: url('./assets/fonts/conthrax/Conthrax-SemiBold.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+@media (max-width:1000px){
+    .item-info{
+        flex-direction: column;
+    }
+
+}
+
+@media (max-width:800px){
+    .navbar{
+        flex-direction: column;
+        gap: 10px;
+        margin-bottom: 130px;
+    }
+    .search-bar{
+        min-width: 400px;
+    }
+
+    .hero-text h1{
+        font-size: 40px;
+    }
+
+    .hero-text{
+        max-width: 400px;
+
+    }
+
+}
